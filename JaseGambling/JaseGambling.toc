@@ -1,0 +1,10 @@
+## Interface: 80300
+## Title: JaseGambling
+## Author: Jase
+## Jasedruid @ Tichondrius
+## Version: 1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Notes: Based on CrossGambling
+## SavedVariables: JaseGambling
+JaseGambling.xml
